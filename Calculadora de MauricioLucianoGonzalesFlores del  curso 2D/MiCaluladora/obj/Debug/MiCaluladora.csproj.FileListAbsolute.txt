@@ -1,0 +1,13 @@
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\bin\Debug\MiCaluladora.exe.config
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\bin\Debug\MiCaluladora.exe
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\bin\Debug\MiCaluladora.pdb
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\obj\Debug\MiCaluladora.csprojAssemblyReference.cache
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\obj\Debug\MiCaluladora.Properties.Resources.resources
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\obj\Debug\MiCaluladora.csproj.GenerateResource.cache
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\obj\Debug\MiCaluladora.csproj.CoreCompileInputs.cache
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\obj\Debug\MiCaluladora.exe
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\obj\Debug\MiCaluladora.pdb
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\obj\Debug\MiCaluladora.MiCalculadora.resources
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\bin\Debug\Entidades.dll
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\bin\Debug\Entidades.pdb
+C:\Users\pipoca\Desktop\tp1_labboratorio_2\Calculadora de MauricioLucianoGonzalesFlores del  curso 2D\MiCaluladora\obj\Debug\MiCaluladora.csproj.CopyComplete
